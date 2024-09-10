@@ -15,16 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=modz90&show_icons=true&hide_border=true))
-
-## Recent Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR #123 in `modz90/Xen`
-2. 💪 Opened PR #124 in `modz90/AnotherRepo`
-<!--END_SECTION:activity-->
-
-
-## Currently Learning
-!Python
-!JavaScript
-!Lua
-!MongoDB
