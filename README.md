@@ -1,42 +1,37 @@
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=modz90&show_icons=true&hide_border=true)
-
-## Currently Working On
-
-
-
-## Currently Learning
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=darkgreen) 
-
-## IDE'S I Use
-- ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
-- ![Windsurf](https://img.shields.io/badge/-Windsurf-05122A?style=flat&logo=windsurfing)
-## Current Operating Systems I use
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=darkgreen)
+# I Code For Fun -._-.
 
 - 🔭 I’m currently working on [Xen]
 - 🌱 I’m currently learning [Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 
-### 🛠️ Languages and Tools:
+### 📚 Currently Learning
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=darkgreen)
+
+### 🛠️ Languages and Tools I Use
+
+#### Languages
 - ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 - ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 - ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
-- ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
-- ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+- ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
+
+#### Tools and IDEs
 - ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
 - ![Windsurf](https://img.shields.io/badge/-Windsurf-05122A?style=flat&logo=windsurfing)
 
-### 📈 GitHub Stats:
+### 🖥️ Current Operating Systems I Use
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=darkgreen)
+
+### 📈 GitHub Stats
 ![modz90's GitHub stats](https://github-readme-stats.vercel.app/api?username=modz90&show_icons=true&theme=radical)
 
-### 🔗 Connect with me:
-- [Discord](https://discord.com/users/your-discord-id)
+### 🔗 Connect with me
+- [![Discord](https://img.shields.io/badge/Discord-05122A?style=flat&logo=discord)](https://discord.com/users/codm_jorrell)
+- [![Instagram](https://img.shields.io/badge/Instagram-05122A?style=flat&logo=instagram)](https://instagram.com/your-instagram-handle)
 
-### 📚 Projects
-- [Project 1](https://github.com/your-project-link)
-- [Project 2](https://github.com/your-project-link)
+---
+
+*Feel free to reach out if you want to collaborate on any project or just want to say hi!*
