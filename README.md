@@ -3,6 +3,10 @@
 - 🔭 I’m currently working on [Xen]
 - 🌱 I’m currently learning [Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 
+### 🔗 Connect with me
+- [![Discord](https://img.shields.io/badge/Discord-05122A?style=flat&logo=discord)](https://discord.com/users/codm_jorrell)
+- [![Instagram](https://img.shields.io/badge/Instagram-05122A?style=flat&logo=instagram)](https://instagram.com/your-instagram-handle)
+
 ### 📚 Currently Learning
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=darkgreen)
@@ -27,10 +31,6 @@
 
 ### 📈 GitHub Stats
 ![modz90's GitHub stats](https://github-readme-stats.vercel.app/api?username=modz90&show_icons=true&theme=radical)
-
-### 🔗 Connect with me
-- [![Discord](https://img.shields.io/badge/Discord-05122A?style=flat&logo=discord)](https://discord.com/users/codm_jorrell)
-- [![Instagram](https://img.shields.io/badge/Instagram-05122A?style=flat&logo=instagram)](https://instagram.com/your-instagram-handle)
 
 ---
 
