@@ -30,8 +30,5 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=darkgreen)
 
 ### 📈 GitHub Stats
-![modz90's GitHub stats](https://github-readme-stats.vercel.app/api?username=modz90&show_icons=true&theme=radical)
+![modz90's GitHub stats](https://github-readme-stats.vercel.app/api?username=modz90&show_icons=true&theme=synthwave)
 
----
-
-*Feel free to reach out if you want to collaborate on any project or just want to say hi!*
