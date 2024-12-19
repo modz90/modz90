@@ -18,8 +18,8 @@
 
 #### Tools and IDEs
 - ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-- ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
-- ![Windsurf](https://img.shields.io/badge/-Windsurf-05122A?style=flat&logo=windsurfing)
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- ![Windsurf](https://img.shields.io/badge/-Windsurf-05122A?style=flat&logo=windsurfing&logoColor=00BFFF)
 
 ### 🖥️ Current Operating Systems I Use
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
