@@ -31,5 +31,3 @@
 
 ### 📈 GitHub Stats
 ![modz90's GitHub stats](https://github-readme-stats.vercel.app/api?username=modz90&show_icons=true&theme=synthwave)
-
-- ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
