@@ -136,6 +136,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=modz90&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   
-  ### Thanks for visiting! 😊
+  ### Thanks for visiting!
   *Feel free to reach out if you want to collaborate on something cool!*
 </div>
