@@ -8,10 +8,8 @@
 
 ## 🚀 About Me
 
-- 🔭 **Currently working on:** [Xen] - *An exciting project I'm passionate about*
+- 🔭 **Currently working on:** [Xen] - *A Multipurpose Discord Bot Written in JavaScript {Database: MongoDB}*
 - 🌱 **Currently learning:** Python, MongoDB, JavaScript, React
-- 💡 **Fun fact:** I believe the best code is written when you're having fun!
-- 🎯 **2024 Goals:** Master full-stack development and contribute to open-source projects
 
 ---
 
