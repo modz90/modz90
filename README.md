@@ -91,8 +91,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=modz90&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=modz90&layout=compact&langs_count=8&theme=synthwave"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=modz90&show_icons=true&theme=synthwave&include_all_commits=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=modz90&layout=compact&langs_count=8&theme=synthwave"/>
 </div>
 
 <div align="center">
@@ -103,7 +103,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=modz90&theme=synthwave&no-frame=false&no-bg=true&margin-w=4" alt="modz90's trophies"/>
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=modz90&theme=synthwave&no-frame=false&no-bg=true&margin-w=4" alt="modz90's trophies"/>
 </div>
 
 ---
@@ -111,13 +111,6 @@
 ## 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=modz90&theme=synthwave-84" alt="modz90's activity graph"/>
-</div>
-
----
-
-## 💭 Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" alt="Random Dev Quote"/>
 </div>
 
 ---
