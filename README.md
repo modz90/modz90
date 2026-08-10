@@ -91,8 +91,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=modz90&show_icons=true&theme=synthwave&include_all_commits=true"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=modz90&layout=compact&langs_count=8&theme=synthwave"/>
+  <img height="180em" src="profile/stats.svg"/>
+  <img height="180em" src="profile/top-langs.svg"/>
 </div>
 
 <div align="center">
@@ -103,7 +103,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=modz90&theme=synthwave&no-frame=false&no-bg=true&margin-w=4" alt="modz90's trophies"/>
+  <img src="profile/trophy.svg" alt="modz90's trophies"/>
 </div>
 
 ---
