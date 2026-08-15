@@ -88,26 +88,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="profile/stats.svg"/>
-  <img height="180em" src="profile/top-langs.svg"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=modz90&theme=synthwave" alt="modz90's streak"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="profile/trophy.svg" alt="modz90's trophies"/>
-</div>
-
----
-
 ## 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=modz90&theme=synthwave-84" alt="modz90's activity graph"/>
